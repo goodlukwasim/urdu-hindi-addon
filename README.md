@@ -1,2 +1,5 @@
-# urdu-hindi-addon
-Movies addon
+# Urdu Hindi Stremio Addon
+
+Run:
+npm install
+node addon.js

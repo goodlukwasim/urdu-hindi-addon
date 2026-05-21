@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: urdu-hindi-addon
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node addon.js
